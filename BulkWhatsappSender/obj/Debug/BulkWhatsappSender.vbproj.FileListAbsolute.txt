@@ -1,0 +1,16 @@
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.exe.config
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.exe
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.pdb
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\bin\Debug\BulkWhatsappSender.xml
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\bin\Debug\WebDriver.dll
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\bin\Debug\WebDriver.xml
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.vbprojResolveAssemblyReference.cache
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.Resources.resources
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.vbproj.GenerateResource.Cache
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.exe
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.xml
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.pdb
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmImportFromFiles.resources
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmMain.resources
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmManualImports.resources
+C:\Users\khillo_baz\Desktop\Bulkwhatsapp\BulkWhatsappSender\BulkWhatsappSender\obj\Debug\BulkWhatsappSender.FrmOptions.resources
